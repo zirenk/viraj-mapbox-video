@@ -1,0 +1,8 @@
+{
+    "animationDuration": 120,
+    "fps": 24,
+    "showWaypoints": true,
+    "mapStyle": "satellite-v9",
+    "cameraMode": "cinematic",
+    "revealPath": true
+}

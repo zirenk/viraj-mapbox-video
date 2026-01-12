@@ -1,0 +1,81 @@
+{
+  "createdAt": {
+    "type": "firestore/timestamp/1.0",
+    "seconds": 1767544670,
+    "nanoseconds": 584000000
+  },
+  "userId": "CJZXpCxD7qTife7SrtRuE3HxzRw1",
+  "isPublished": true,
+  "totalDuration": "1s 41dk",
+  "image": "https://firebasestorage.googleapis.com/v0/b/virajappv1.firebasestorage.app/o/route-covers%2F1767544658731_KANDIRAKerpeKOCAELI2_20160303153005398.jpg?alt=media&token=6736fbac-90ef-45c7-832f-79476b8c75d5",
+  "totalDistance": 69.688,
+  "publisherName": "Mehmet Fatih Türker",
+  "waypoints": [
+    {
+      "position": {
+        "lng": 29.856061000000004,
+        "lat": 41.138653
+      },
+      "typeId": "default",
+      "id": 1767544165086,
+      "notes": "",
+      "address": "Ağva Merkez",
+      "photos": [],
+      "rating": 0
+    },
+    {
+      "address": "Bağırganlı",
+      "photos": [],
+      "typeId": "landmark",
+      "position": {
+        "lat": 41.126740999999996,
+        "lng": 30.010676999999998
+      },
+      "notes": "",
+      "id": 1767544179760,
+      "rating": 0
+    },
+    {
+      "rating": 0,
+      "notes": "",
+      "address": "Safalı",
+      "typeId": "default",
+      "photos": [],
+      "position": {
+        "lng": 30.081781999999997,
+        "lat": 41.085555
+      },
+      "id": 1767544435164
+    },
+    {
+      "typeId": "restaurant",
+      "rating": 0,
+      "notes": "",
+      "photos": [],
+      "id": 1767544215365,
+      "position": {
+        "lng": 30.141215199999998,
+        "lat": 41.098926399999996
+      },
+      "address": "Dereboyu Restorant"
+    }
+  ],
+  "publishedAt": {
+    "type": "firestore/timestamp/1.0",
+    "seconds": 1767935558,
+    "nanoseconds": 671000000
+  },
+  "difficulty": "3",
+  "name": "Şile - Kandıra | Kısa Tur",
+  "startLocation": {
+    "address": "Şile",
+    "location": {
+      "lng": 29.609588000000002,
+      "lat": 41.174903
+    }
+  },
+  "isPublic": true,
+  "originalRouteId": "H5XYolDWQ8yOtXvo6jQL",
+  "description": "",
+  "shareableId": "eqixz76mjzygk58"
+}
